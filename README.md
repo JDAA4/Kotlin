@@ -1,2 +1,1 @@
-# Kotlin
-K O T L I N
+# K O T L I N
